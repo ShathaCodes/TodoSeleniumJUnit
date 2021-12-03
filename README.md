@@ -19,3 +19,4 @@ Run the command
 ```
 mvn test
 ```
+You can see the report in `/target/site/surefire-report.html`
